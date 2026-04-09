@@ -116,7 +116,6 @@ Delta transaction log records every write operation. You can query any previous 
 
 **Verify before proceeding.**
 
-After every layer: `bronze_count == silver_count == gold_count`
 
 A pipeline that silently drops 10% of rows is worse than a pipeline that fails loudly. Silent data loss is the most dangerous bug in data engineering.
 
