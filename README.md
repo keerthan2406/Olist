@@ -1,7 +1,7 @@
 # Olist E-Commerce Data Pipeline
 ### Medallion Architecture with PySpark and Delta Lake
 
----
+----
 
 ## Overview
 
@@ -9,7 +9,7 @@ An end-to-end data engineering pipeline built on the Brazilian Olist e-commerce 
 
 **Tools:** PySpark | Delta Lake | Databricks | Unity Catalog
 
----
+----
 
 ## Architecture
 
